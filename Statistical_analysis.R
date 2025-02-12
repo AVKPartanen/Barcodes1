@@ -8,7 +8,6 @@ library(ggpubr)
 library(ggh4x)
 library(lattice)
 library(vegan)
-source(file = "HighstatLibV14.R")
 
 # Data in
 data1 <-
