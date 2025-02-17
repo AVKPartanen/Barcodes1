@@ -14,3 +14,5 @@ __lihavoitu__
 ```r
 koodiblokki
 ```
+
+[Linkki](Statistical_dataanalysis.R)
