@@ -2,8 +2,8 @@
 __This project contains code for a scientific article that is under submission process. Abstract of the project and link to article will be added later.__
 
 ## About code dependencies
-The data frame created in Relative abundance data analysis is further used in bubble plot combining relative abundance data and epicPCR carrier data
-[Relative abundance data](Abundance_data.R) ->  
+The data frame created in Relative abundance data analysis is further used in bubble plot combining relative abundance data and epicPCR carrier data  
+[Relative abundance data](Abundance_data.R) -> 
 [EpicPCR and 16S plot](Bubble_plot_with_epic_16S_and_BC_data.R)
 
 ## The plot combining epicPCR and 16S data has been finalised outside R
