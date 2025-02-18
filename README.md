@@ -11,10 +11,12 @@ The code for bubble plots with relative abundance data and epicPCR gene carrier 
 [EpicPCR and 16S plot](Bubble_plot_with_epic_16S_and_BC_data.R)
 
 ## Where to find the DADA pipeline used and changes compared to that
-The DADA pipeline to create the phyloseq object that is used in analysis of the 16S results can be found from (https://benjjneb.github.io/dada2/tutorial.html) .  The filtering was done with settings:
+The DADA pipeline to create the phyloseq object that is used in analysis of the 16S results can be found from (https://benjjneb.github.io/dada2/tutorial.html) .  
+The filtering was done with settings:
 -	trimming length was 220 and 200
 -	maximum expected error was 2 and 2  
-The reads were assigned taxonomy based on 16S data base from the strains and species instead of SILVA database.  Full genomes of some of the HAMBI strains used has been published by   __Hogle et al. (2024):__ Complete genome sequences of 30 bacterial species from a synthetic community.   _Microbiology Resource Announcements_, __13__, (6).
+The reads were assigned taxonomy based on 16S data base from the strains and species instead of SILVA database.  Full genomes of some of the HAMBI strains used has been published by  
+__Hogle et al. (2024):__ Complete genome sequences of 30 bacterial species from a synthetic community.   _Microbiology Resource Announcements_, __13__, (6).
 
 
 # Otsikko 
